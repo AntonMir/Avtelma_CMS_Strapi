@@ -46,6 +46,12 @@
         "files",
         "videos"
       ]
+    },
+    "Text_RU": {
+      "type": "text"
+    },
+    "Text_EN": {
+      "type": "text"
     }
   }
 }
