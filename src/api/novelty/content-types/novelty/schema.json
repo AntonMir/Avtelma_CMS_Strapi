@@ -46,6 +46,15 @@
     },
     "UID": {
       "type": "uid"
+    },
+    "Full_Text_RU": {
+      "type": "text"
+    },
+    "Full_Text_EN": {
+      "type": "text"
+    },
+    "Tag": {
+      "type": "string"
     }
   }
 }
