@@ -12,17 +12,24 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Name_RU": {
+    "Name": {
       "type": "string"
     },
     "Value_RU": {
       "type": "string"
     },
-    "Name_EN": {
-      "type": "string"
-    },
     "Value_EN": {
       "type": "string"
+    },
+    "Img": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
     }
   }
 }
