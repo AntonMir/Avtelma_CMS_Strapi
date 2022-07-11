@@ -55,6 +55,12 @@
     },
     "Tag": {
       "type": "string"
+    },
+    "Video_EN": {
+      "type": "text"
+    },
+    "Video_RU": {
+      "type": "text"
     }
   }
 }
