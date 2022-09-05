@@ -61,6 +61,28 @@
     },
     "Video_RU": {
       "type": "text"
+    },
+    "Title_AM": {
+      "type": "string"
+    },
+    "Description_AM": {
+      "type": "text"
+    },
+    "Img_AM": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ]
+    },
+    "Full_Text_AM": {
+      "type": "text"
+    },
+    "Video_AM": {
+      "type": "string"
     }
   }
 }

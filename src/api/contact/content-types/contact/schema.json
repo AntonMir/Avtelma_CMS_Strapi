@@ -30,6 +30,9 @@
         "files",
         "videos"
       ]
+    },
+    "Value_AM": {
+      "type": "string"
     }
   }
 }

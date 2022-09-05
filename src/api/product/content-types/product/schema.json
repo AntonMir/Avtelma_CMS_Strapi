@@ -52,6 +52,24 @@
     },
     "Text_EN": {
       "type": "text"
+    },
+    "Title_AM": {
+      "type": "string"
+    },
+    "URL_AM": {
+      "type": "string"
+    },
+    "Img_AM": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "Text_AM": {
+      "type": "text"
     }
   }
 }
