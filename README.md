@@ -27,7 +27,7 @@ yarn start
 Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
 
 ```
-npm run build --no-optimization 
+npm run build
 # or
 yarn build
 ```
