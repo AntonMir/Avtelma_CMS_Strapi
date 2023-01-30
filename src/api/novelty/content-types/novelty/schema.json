@@ -83,6 +83,12 @@
     },
     "Video_AM": {
       "type": "string"
+    },
+    "date": {
+      "type": "string"
+    },
+    "Outer_Link": {
+      "type": "string"
     }
   }
 }
